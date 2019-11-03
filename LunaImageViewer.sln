@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaImageViewerApp", "LunaImageViewerApp\LunaImageViewerApp.csproj", "{8F34F983-1C3F-4FA6-84A7-E63FC5E6982C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupImageViewer", "SetupImageViewer\SetupImageViewer.vdproj", "{2D12BB0A-EA8A-44D3-A9DC-28B711F647D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F34F983-1C3F-4FA6-84A7-E63FC5E6982C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F34F983-1C3F-4FA6-84A7-E63FC5E6982C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F34F983-1C3F-4FA6-84A7-E63FC5E6982C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F34F983-1C3F-4FA6-84A7-E63FC5E6982C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D12BB0A-EA8A-44D3-A9DC-28B711F647D4}.Debug|Any CPU.ActiveCfg = Debug
+		{2D12BB0A-EA8A-44D3-A9DC-28B711F647D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC2CA3B-F6B3-4E1E-A957-61B6037FD40A}
+	EndGlobalSection
+EndGlobal
